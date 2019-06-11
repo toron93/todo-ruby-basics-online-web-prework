@@ -1,4 +1,4 @@
-def division(num1,num2) = 6
+def division(num1,num2 ="6")
 
 end
 
