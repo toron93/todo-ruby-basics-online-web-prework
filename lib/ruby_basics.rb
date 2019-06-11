@@ -25,7 +25,8 @@ def last_evaluated_value
 
 end
 
-def pizza_party
-  + phrase = "cheese"
+def pizza_party(toping = "cheese")
+  + puts toping
+  + phrase = toping
 
 end
