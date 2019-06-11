@@ -1,5 +1,5 @@
 def division
-  num  3
+  num  12
   num  2
 end
 
